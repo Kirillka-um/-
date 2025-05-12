@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet"  href="style.css">
+</head>
+<body>
+
+</body>
+<img src="https://iimg.su/s/10/th_fkjkXNmLVt7I7wJW5ZoIFu1yKLeWidF3hr4FDknT.jpg" width="200" height="200"
+style="border-radius: 100px;">
+<h1>Проект GoGorod</h1>
+<h2>Это проект про Пятигорск (в будущем и другие города) который стартует 2 июня. У этого проекта есть свои подпроекты:</h2>
+<h3>Алло,Пушкин;</h3>
+<h3>ЭтоGorodДетка;</h3>
+<h3>KapiVlog.</h3>
+<h2>Все серии этого проекта будут доступны тут:</h2>
+<h4><a href="https://rutube.ru/channel/45878595/">СЕРИИ ТУТ</a></h4>
+<h2>А что-бы понять когда заходить,подпишитесь на наш телеграм-канал! </h2>
+<a href="https://t.me/GoFiveGor"><button type="button">Наш тг канал с сериями</button>
+</a>
+<br><br>
+<img src="https://ltdfoto.ru/images/2025/05/05/5339372793017526541.jpg" width="100" height="100"
+     style="border-radius: 50px;">
+<h1>Алло Пушкин</h1>
+<h2>Подкаст про писателей</h2>
+<img src="https://iimg.su/s/10/th_tO2Zp20qyPXidHHIhsaYLO2SADzkgBq6TOfvCu7a.jpg" width="20" height="20">
+<a href="https://t.me/allopushkin"><button type="button">Мы в телеграме!</button>
+</a>
+<h1>Выпуски:</h1>
+<a href=" https://allopushkin.mave.digital/ep-2">Серия про Лермонтова
+</a>
+<br>
+<br>
+<a href="https://rutube.ru/video/a2727f7eb41b02bf02696fcf8753c8fd/?r=wm">серия про Горького</a><br>
+<br>
+<a href="https://allo-pushkin.mave.digital/ep-2">серия про Крылова</a><br>
+<br>
+<a href="https://allo-pushkin.mave.digital/ep-1">серия про Пушкина</a><br>
+<br>
+<a href="https://allo-pushkin.mave.digital/ep-3">серия про Толстого</a><br>
+<br>
+<a href="https://allo-pushkin.mave.digital/ep-4">Печеньки с СЮРПРИЗОМ</a><br>
